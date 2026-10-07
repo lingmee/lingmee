@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #585b70;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1200px" height="700px" fill="#1e1e2e" rx="15"/>
+<rect width="1200px" height="700px" fill="#0d1117" rx="15"/>
 <text x="15" y="30" fill="#cdd6f4" class="ascii">
 <tspan x="15" y="30">                                                   </tspan>
 <tspan x="15" y="50">                           +=                      </tspan>
@@ -42,11 +42,6 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="470">  -:::.....:...:............      .                </tspan>
 <tspan x="15" y="490">  -:::........:.......... . ...   .                </tspan>
 <tspan x="15" y="510">  -:..................... .   ..                   </tspan>
-<tspan x="15" y="530"> @:-................. .  .    ..                   </tspan>
-<tspan x="15" y="550"> @:::.............  ..  .    . .                   </tspan>
-<tspan x="15" y="570"> -:::.....   .. .   .        . .                   </tspan>
-<tspan x="15" y="590"> --::.....     .  ..           .                   </tspan>
-<tspan x="15" y="610"> :-::.....       .                                 </tspan>
 </text>
 <text x="500" y="30" fill="#cdd6f4">
 <tspan x="500" y="30">lingmee@Pase</tspan> -———————————————————————————————————————————-—-

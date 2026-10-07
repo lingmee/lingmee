@@ -305,6 +305,7 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     """
     tree = etree.parse(filename)
     root = tree.getroot()
+    justify_format(root, 'age_data', age_data, 28)
     justify_format(root, 'commit_data', commit_data, 22)
     justify_format(root, 'star_data', star_data, 14)
     justify_format(root, 'repo_data', repo_data, 6)
@@ -340,6 +341,29 @@ def find_and_replace(root, element_id, new_text):
     element = root.find(f".//*[@id='{element_id}']")
     if element is not None:
         element.text = new_text
+        return
+
+    svg_ns = root.nsmap.get(None)
+    if not svg_ns:
+        return
+
+    selector_map = {
+        'age_data': ".//svg:tspan[@x='500' and @y='70' and @class='cc']/following-sibling::svg:tspan[@class='value'][1]",
+        'repo_data': ".//svg:tspan[@x='500' and @y='470' and @class='cc']/following-sibling::svg:tspan[@class='value'][1]",
+        'contrib_data': ".//svg:tspan[@class='key' and normalize-space(text())='Contributed']/following-sibling::svg:tspan[@class='value'][1]",
+        'star_data': ".//svg:tspan[@class='key' and normalize-space(text())='Stars']/following-sibling::svg:tspan[@class='value'][1]",
+        'commit_data': ".//svg:tspan[@x='500' and @y='490' and @class='cc']/following-sibling::svg:tspan[@class='value'][1]",
+        'follower_data': ".//svg:tspan[@class='key' and normalize-space(text())='Followers']/following-sibling::svg:tspan[@class='value'][1]",
+        'loc_data': ".//svg:tspan[@x='500' and @y='510' and @class='cc']/following-sibling::svg:tspan[@class='value'][1]",
+        'loc_add': ".//svg:tspan[@class='addColor'][1]",
+        'loc_del': ".//svg:tspan[@class='delColor'][1]",
+    }
+    selector = selector_map.get(element_id)
+    if not selector:
+        return
+    matches = root.xpath(selector, namespaces={'svg': svg_ns})
+    if matches:
+        matches[0].text = new_text
 
 
 def commit_counter(comment_size):

@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
 <text x="500" y="30" fill="#cdd6f4">
 <tspan x="500" y="30">lingmee@Pase</tspan> -———————————————————————————————————————————-—-
 <tspan x="500" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>: <tspan class="value" x="730">Linux(arch btw), Windows11</tspan>
-<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="value" x="730">32 years, 0 months, 0 days 🎂</tspan>
+<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="value" x="730">32 years, 0 months, 2 days</tspan>
 <tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="value" x="730">TAMK — Tampere University of Applied Sciences</tspan>
 <tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="value" x="730">IT Business &amp; Programming Student</tspan>
 <tspan x="500" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>: <tspan class="value" x="730">VSCodium, Nvim</tspan>
@@ -64,8 +64,8 @@ text, tspan {white-space: pre;}
 <tspan x="500" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value" x="730">COMING SOON</tspan>
 <tspan x="500" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>: <tspan class="value" x="730">COMING SOON</tspan>
 <tspan x="500" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="500" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value" x="730">32</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">32</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="value">3</tspan>
-<tspan x="500" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>: <tspan class="value" x="730">153</tspan> | <tspan class="key">Followers</tspan>: <tspan class="value">2</tspan>
-<tspan x="500" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GHub</tspan>: <tspan class="value" x="730">146,371</tspan> ( <tspan class="addColor">156,149</tspan>, <tspan class="delColor">9,778</tspan> )
+<tspan x="500" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value" x="730">28</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">28</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="value">3</tspan>
+<tspan x="500" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>: <tspan class="value" x="730">158</tspan> | <tspan class="key">Followers</tspan>: <tspan class="value">3</tspan>
+<tspan x="500" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GHub</tspan>: <tspan class="value" x="730">147,273</tspan> ( <tspan class="addColor">157,320</tspan>, <tspan class="delColor">10,047</tspan> )
 </text>
 </svg>

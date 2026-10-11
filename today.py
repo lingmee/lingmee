@@ -6,6 +6,8 @@ from lxml import etree
 import time
 import hashlib
 
+# !! THIS IS A MODIFIED VERSION OF https://github.com/Andrew6rant/Andrew6rant ORIGINAL CODE, ALL THANKS TO HIM
+# GO CHECK HIM OUT
 # Fine-grained personal access token with All Repositories access:
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests

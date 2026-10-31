@@ -54,7 +54,7 @@ text, tspan {white-space: pre;}
 <tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>: <tspan class="value" x="730">32 years, 0 months, 24 days</tspan>
 <tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Study</tspan>: <tspan class="value" x="730">TAMK, IT Business &amp; Programming</tspan>
 <tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Focus</tspan>: <tspan class="value" x="730">Tools, systems, and automation</tspan>
-<tspan x="500" y="130" class="cc">. </tspan><tspan class="key">Editors</tspan>: <tspan class="value" x="730">VSCodium, Neovim</tspan>
+<tspan x="500" y="130" class="cc">. </tspan><tspan class="key">Editors</tspan>: <tspan class="value" x="730">Emacs, Nvim, VSCodium</tspan>
 <tspan x="500" y="150" class="cc">. </tspan>
 <tspan x="500" y="170" class="cc">. </tspan><tspan class="key">Code</tspan>.<tspan class="key">Programming</tspan>: <tspan class="value" x="730">Python, JavaScript, Rust, TypeScript</tspan>
 <tspan x="500" y="190" class="cc">. </tspan><tspan class="key">Code</tspan>.<tspan class="key">Other</tspan>: <tspan class="value" x="730">HTML, CSS, Lua, SQLite, YAML</tspan>

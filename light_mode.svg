@@ -51,7 +51,7 @@ text, tspan {white-space: pre;}
 <text x="500" y="30" fill="#24292f">
 <tspan x="500" y="30">pase@lingmee</tspan> -———————————————————————————————-—-
 <tspan x="500" y="50" class="cc">. </tspan><tspan class="key">Platforms</tspan>: <tspan class="value" x="730">Arch Linux, Windows 11</tspan>
-<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>: <tspan class="value" x="730">32 years, 0 months, 27 days</tspan>
+<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>: <tspan class="value" x="730">32 years, 0 months, 28 days</tspan>
 <tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Study</tspan>: <tspan class="value" x="730">TAMK, IT Business &amp; Programming</tspan>
 <tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Focus</tspan>: <tspan class="value" x="730">Tools, systems, and automation</tspan>
 <tspan x="500" y="130" class="cc">. </tspan><tspan class="key">Editors</tspan>: <tspan class="value" x="730">Emacs, Nvim, VSCodium</tspan>

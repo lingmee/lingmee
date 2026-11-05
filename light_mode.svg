@@ -51,7 +51,7 @@ text, tspan {white-space: pre;}
 <text x="500" y="30" fill="#24292f">
 <tspan x="500" y="30">pase@lingmee</tspan> -———————————————————————————————-—-
 <tspan x="500" y="50" class="cc">. </tspan><tspan class="key">Platforms</tspan>: <tspan class="value" x="730">Arch Linux, Windows 11</tspan>
-<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>: <tspan class="value" x="730">32 years, 0 months, 28 days</tspan>
+<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>: <tspan class="value" x="730">32 years, 0 months, 29 days</tspan>
 <tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Study</tspan>: <tspan class="value" x="730">TAMK, IT Business &amp; Programming</tspan>
 <tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Focus</tspan>: <tspan class="value" x="730">Tools, systems, and automation</tspan>
 <tspan x="500" y="130" class="cc">. </tspan><tspan class="key">Editors</tspan>: <tspan class="value" x="730">Emacs, Nvim, VSCodium</tspan>
@@ -69,7 +69,7 @@ text, tspan {white-space: pre;}
 <tspan x="500" y="410" class="cc">. </tspan><tspan class="key">Status</tspan>: <tspan class="value" x="730">Learning and building</tspan>
 <tspan x="500" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="500" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value" x="730">33</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">33</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="value">3</tspan>
-<tspan x="500" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="value" x="730">189</tspan> | <tspan class="key">Followers</tspan>: <tspan class="value">9</tspan>
-<tspan x="500" y="510" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="value" x="730">200,851</tspan> ( <tspan class="addColor">212,859</tspan>, <tspan class="delColor">12,008</tspan> )
+<tspan x="500" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="value" x="730">190</tspan> | <tspan class="key">Followers</tspan>: <tspan class="value">9</tspan>
+<tspan x="500" y="510" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="value" x="730">201,971</tspan> ( <tspan class="addColor">213,998</tspan>, <tspan class="delColor">12,027</tspan> )
 </text>
 </svg>
